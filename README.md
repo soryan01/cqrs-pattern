@@ -6,7 +6,7 @@ This repository showcases the implementation of the **CQRS (Command Query Respon
 
 The architecture separates **Query Side Services** (read-focused) and **Command Side Services** (write-focused) to handle specific responsibilities efficiently while maintaining system flexibility.
 
-### Diagram
+### Solutions Diagram
 
 ![CQRS Pattern: Customer Digital Journey](./images/CQRS_Pattern_Customer_Digital_Journey.png)
 
